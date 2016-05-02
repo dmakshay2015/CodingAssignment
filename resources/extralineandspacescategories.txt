@@ -1,0 +1,13 @@
+    PERSON Bob Jones    
+PLACE Washington     
+    PERSON Mary
+    
+
+OTHER Tree
+
+PLACE Texas
+
+	FOOD Steak
+
+ANIMAL Cat	
+

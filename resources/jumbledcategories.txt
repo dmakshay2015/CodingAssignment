@@ -1,0 +1,8 @@
+COMPUTER Mac
+ANIMAL Dog
+FOOD Steak
+PLACE Texas
+PERSON Mary
+ANIMAL Cat
+PERSON Bob Jones
+PLANE F-14

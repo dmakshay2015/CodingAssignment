@@ -1,0 +1,21 @@
+ANIMAL Dog
+PERSON Bob Jones
+PLACE Washington
+PERSON Mary
+OTHER Tree
+FOOD Steak
+COMPUTER Mac
+PLACE Washington
+PERSON Bob Jones
+OTHER Tree
+ANIMAL Cat
+FOOD Steak
+PERSON Mary
+ANIMAL Dog
+PERSON Mary
+PLACE Washington
+PLACE Texas
+FOOD Steak
+PLACE Washington
+ANIMAL Cat
+COMPUTER Mac
